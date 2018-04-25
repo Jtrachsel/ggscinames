@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524614374440.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D083B850",
+    "lastKnownWriteTime" : 1523910902,
+    "last_content_update" : 1523910902,
+    "path" : "~/Documents/ggscinames/R/geom-text-sci.R",
+    "project_path" : "R/geom-text-sci.R",
+    "properties" : {
+        "cursorPosition" : "150,30",
+        "scrollLine" : "145"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
